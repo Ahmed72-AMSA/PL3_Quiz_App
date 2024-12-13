@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|d:\\studying section\\projects\\programming language 3\\quiz app\\quiz app\\writtenquestion_teacher_form.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|solutionrelative:quiz app\\writtenquestion_teacher_form.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|d:\\studying section\\projects\\programming language 3\\quiz app\\quiz app\\mcq_teacher_form.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|solutionrelative:quiz app\\mcq_teacher_form.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|d:\\studying section\\projects\\programming language 3\\quiz app\\quiz app\\loginform.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|solutionrelative:quiz app\\loginform.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|d:\\studying section\\projects\\programming language 3\\quiz app\\quiz app\\login.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|solutionrelative:quiz app\\login.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|d:\\studying section\\projects\\programming language 3\\quiz app\\quiz app\\signupform.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|solutionrelative:quiz app\\signupform.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|d:\\studying section\\projects\\programming language 3\\quiz app\\quiz app\\mcq_student_form.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|solutionrelative:quiz app\\mcq_student_form.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|d:\\studying section\\projects\\programming language 3\\quiz app\\quiz app\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|solutionrelative:quiz app\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|d:\\studying section\\projects\\programming language 3\\quiz app\\quiz app\\quizapp.fsproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|solutionrelative:quiz app\\quizapp.fsproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|d:\\studying section\\projects\\programming language 3\\quiz app\\quiz app\\mcq_student.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|solutionrelative:quiz app\\mcq_student.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|d:\\studying section\\projects\\programming language 3\\quiz app\\quiz app\\signup.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|solutionrelative:quiz app\\signup.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|d:\\studying section\\projects\\programming language 3\\quiz app\\quiz app\\writtenquestion_teacher.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|solutionrelative:quiz app\\writtenquestion_teacher.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|d:\\studying section\\projects\\programming language 3\\quiz app\\quiz app\\mcq_teacher.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{4266B9CF-91DF-466A-B767-AB1F1F333CBA}|Quiz App\\QuizApp.fsproj|solutionrelative:quiz app\\mcq_teacher.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MCQ_student.fs",
+              "DocumentMoniker": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\MCQ_student.fs",
+              "RelativeDocumentMoniker": "Quiz App\\MCQ_student.fs",
+              "ToolTip": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\MCQ_student.fs",
+              "RelativeToolTip": "Quiz App\\MCQ_student.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-12T21:40:43.896Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MCQ_teacher_form.fs",
+              "DocumentMoniker": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\MCQ_teacher_form.fs",
+              "RelativeDocumentMoniker": "Quiz App\\MCQ_teacher_form.fs",
+              "ToolTip": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\MCQ_teacher_form.fs",
+              "RelativeToolTip": "Quiz App\\MCQ_teacher_form.fs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAPEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-12T23:46:34.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Signupform.fs",
+              "DocumentMoniker": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\Signupform.fs",
+              "RelativeDocumentMoniker": "Quiz App\\Signupform.fs",
+              "ToolTip": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\Signupform.fs",
+              "RelativeToolTip": "Quiz App\\Signupform.fs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-12T23:49:50.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MCQ_student_form.fs",
+              "DocumentMoniker": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\MCQ_student_form.fs",
+              "RelativeDocumentMoniker": "Quiz App\\MCQ_student_form.fs",
+              "ToolTip": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\MCQ_student_form.fs",
+              "RelativeToolTip": "Quiz App\\MCQ_student_form.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T00:03:43.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WrittenQuestion_teacher_form.fs",
+              "DocumentMoniker": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\WrittenQuestion_teacher_form.fs",
+              "RelativeDocumentMoniker": "Quiz App\\WrittenQuestion_teacher_form.fs",
+              "ToolTip": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\WrittenQuestion_teacher_form.fs",
+              "RelativeToolTip": "Quiz App\\WrittenQuestion_teacher_form.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAC0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T01:10:27.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.fs",
+              "DocumentMoniker": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\Login.fs",
+              "RelativeDocumentMoniker": "Quiz App\\Login.fs",
+              "ToolTip": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\Login.fs",
+              "RelativeToolTip": "Quiz App\\Login.fs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-12T23:51:51.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.fs",
+              "DocumentMoniker": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\LoginForm.fs",
+              "RelativeDocumentMoniker": "Quiz App\\LoginForm.fs",
+              "ToolTip": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\LoginForm.fs",
+              "RelativeToolTip": "Quiz App\\LoginForm.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-12T23:49:52.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Signup.fs",
+              "DocumentMoniker": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\Signup.fs",
+              "RelativeDocumentMoniker": "Quiz App\\Signup.fs",
+              "ToolTip": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\Signup.fs",
+              "RelativeToolTip": "Quiz App\\Signup.fs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswDMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T00:14:26.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuizApp",
+              "DocumentMoniker": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\QuizApp.fsproj",
+              "RelativeDocumentMoniker": "Quiz App\\QuizApp.fsproj",
+              "ToolTip": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\QuizApp.fsproj",
+              "RelativeToolTip": "Quiz App\\QuizApp.fsproj",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001351|",
+              "WhenOpened": "2024-12-13T01:02:17.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.fs",
+              "DocumentMoniker": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\Program.fs",
+              "RelativeDocumentMoniker": "Quiz App\\Program.fs",
+              "ToolTip": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\Program.fs",
+              "RelativeToolTip": "Quiz App\\Program.fs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwBwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T01:12:50.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WrittenQuestion_teacher.fs",
+              "DocumentMoniker": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\WrittenQuestion_teacher.fs",
+              "RelativeDocumentMoniker": "Quiz App\\WrittenQuestion_teacher.fs",
+              "ToolTip": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\WrittenQuestion_teacher.fs",
+              "RelativeToolTip": "Quiz App\\WrittenQuestion_teacher.fs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T01:02:57.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MCQ_teacher.fs",
+              "DocumentMoniker": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\MCQ_teacher.fs",
+              "RelativeDocumentMoniker": "Quiz App\\MCQ_teacher.fs",
+              "ToolTip": "D:\\studying section\\projects\\Programming Language 3\\Quiz App\\Quiz App\\MCQ_teacher.fs",
+              "RelativeToolTip": "Quiz App\\MCQ_teacher.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T00:03:33.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
